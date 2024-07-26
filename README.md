@@ -44,3 +44,8 @@ To contribute:
 4. Commit your changes (`git commit -m 'Add new feature'`).
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
+
+## Screenshot
+
+![snake](https://github.com/user-attachments/assets/86305355-ff68-4a71-994c-fef6fa6ca7e6)
+![snake2](https://github.com/user-attachments/assets/a6b9b7cf-a931-42c3-b82e-36416cb52944)
