@@ -1,7 +1,5 @@
 # Snake Game with Perceptron AI
 
-![Snake Game Screenshot](images/snake_game_screenshot.png)
-
 This project implements the classic "Snake" game using a Perceptron algorithm to develop artificial intelligence that controls the snake. The idea is to create a snake that can improve its skills through learning across several generations.
 
 ## Features
